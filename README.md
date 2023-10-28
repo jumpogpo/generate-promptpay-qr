@@ -29,10 +29,10 @@ $ npm install
 ## 📺 Running the app
 
 ```bash
-# build
+# Build
 $ npm run build
 
-# run
+# Run
 # Example node ./dist/index.js 0123456789 100
 $ node ./dist/index.js phoneNumber amount
 ```
