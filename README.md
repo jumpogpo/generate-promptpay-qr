@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.kasikornbank.com/special/promptpay/pages/index.aspx" target="blank"><img src="https://www.finnomena.com/wp-content/uploads/2016/10/promt-pay-logo.jpg" width="300" height="200" alt="Angpao Logo" /></a>
+  <a href="https://www.kasikornbank.com/special/promptpay/pages/index.aspx" target="blank"><img src="https://www.finnomena.com/wp-content/uploads/2016/10/promt-pay-logo.jpg" width="300" height="150" alt="Angpao Logo" /></a>
 </p>
 
 ## 👋 Description
